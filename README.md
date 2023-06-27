@@ -39,5 +39,37 @@ The goal of this project is to analyze traffic accident data and identify key tr
   Duplication was removed, columns and rows adjusted, spelling checks were done, and a few other things
 
   Preview of a section of the cleaned datasheet
-  ![image]()
+  ![image](https://github.com/SankalpGautam/Road_Safety_Dashboard/blob/main/Images/1.png)
+  
+### 4. Data Processing 
+  This is more like extracting more details from the cleaned data to help with data analysis, for example, monthly and year column was added to help with analysis as the      client requested for the monthly trend in comparison to current and previous years
+
+  Included columns
+
+  ![image](https://github.com/SankalpGautam/Road_Safety_Dashboard/blob/main/Images/2.png)
+
+### 5. Data Analysis (using pivot tables and of course excel formulas)
+
+  Pivot tables and pivot charts were created across different sheets with respect to achieving the KPIs. Thereafter, a Data Analysis Sheet was created housing all the pivot   tables earlier created for data analysis.
+
+  Data Analysis Sheet
+
+  ![image](https://github.com/SankalpGautam/Road_Safety_Dashboard/blob/main/Images/3.png)
+
+### 6. Data Visualisation (using charts to show insights)
+
+  Data visualization was done using pivot charts,
+
+  Pivot Tables and Pivot Charts
+
+  ![image](https://github.com/SankalpGautam/Road_Safety_Dashboard/blob/main/Images/4.png)
+
+### 7. Creation of a dynamic and interactive dashboard
+
+  The dashboard became interactive and dynamic by creating a filter panel using a timeline and slicer as already created in the pivot table. The dashboard also has link       which leads to the dashboard, my email, this GitHub repository, and the Data Analysis Sheet directly and vice versa
+
+  ![image](https://github.com/SankalpGautam/Road_Safety_Dashboard/blob/main/Images/5.png)
+
+
+
 
